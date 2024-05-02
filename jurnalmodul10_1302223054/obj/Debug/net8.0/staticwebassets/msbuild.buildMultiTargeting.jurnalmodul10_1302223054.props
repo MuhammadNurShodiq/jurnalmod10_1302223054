@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jurnalmodul10_1302223054.props" />
+</Project>
